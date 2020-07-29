@@ -115,7 +115,6 @@ class _SlidingCardState extends State<SlidingCard>
     animationController.addListener(() {
       setState(() {});
     });
-    
   }
 
   ///use this to expand the card

@@ -1,6 +1,6 @@
 name: sliding_card
 description: Sliding card is a highly customizable flutter package that will help you create animated Cards with a sliding animation effect.
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/PavieOlivier/slidingCard
 
 environment:
